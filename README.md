@@ -1,4 +1,4 @@
-Tugas-Pemrograman-2-DDP2
+# Tugas-Pemrograman-2-DDP2
 
 Berkat kesuksesan kamu membantu Dek Depe dalam membuat
 program HammingCode, Salman kini dapat berkomunikasi dengan Dina secara
