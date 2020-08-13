@@ -33,5 +33,3 @@ sanggup lagi untuk lanjut mengimplementasikan sistem tersebut. Dek Depe
 tahu bahwa kamu sudah belajar mengenai Object-Oriented Programming.
 Akhirnya, Dek Depe meminta bantuan kepada kamu, seorang programmer
 hebat yang akan menyelamatkan nilai mahasiswa Fasilkom!
-
-I got 104.5/105 ;)
